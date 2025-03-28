@@ -1,4 +1,4 @@
-Olá, eu sou Karoline Rebeca
+Oiii! Wu sou a Karoline Rebeca
 
 
 - 🔭 Hoje estudo Back End
