@@ -1,6 +1,6 @@
 Oiii! Eu sou a Karoline Rebeca
 
 
-- 🔭 Hoje estudo Back End
+- 🔭 Estudo programação com foco em Back End (.NET / C#)
 - 😄 Pronouns: ela/dela
 
