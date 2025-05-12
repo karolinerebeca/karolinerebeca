@@ -18,6 +18,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/karolinerebeca/karolinerebeca/output/snake.svg" alt="Snake animation" />
 
 ###
