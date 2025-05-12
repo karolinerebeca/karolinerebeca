@@ -20,15 +20,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karolinerebeca/karolinerebeca/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
- <a href="https://www.linkedin.com/in/karolinerebeca/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" title="Meu LinkedIn"/>
-  </a>
-  <div align="left" style="display: flex; gap: 10px;">
+<div align="left" style="display: flex; gap: 10px;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/karolinerebeca/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
