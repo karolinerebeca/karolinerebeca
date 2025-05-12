@@ -18,19 +18,14 @@
 
 ###
 
-<div style="display: flex; gap: 12px; margin: 20px 0;">
-  <!-- LinkedIn (100% funcional) -->
-  <a href="https://www.linkedin.com/in/karolinerebeca/" target="_blank">
-    <img src="https://i.ibb.co/12Z5QqH/linkedin.png" width="40" alt="LinkedIn"/>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <!-- LinkedIn (funciona) -->
+  <a href="https://linkedin.com/in/karolinerebeca" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" alt="LinkedIn"/>
   </a>
   
-  <!-- YouTube (seu canal) -->
-  <a href="https://www.youtube.com/@karolinerebeca_" target="_blank">
-    <img src="https://i.ibb.co/6n0h7L0/youtube.png" width="40" alt="YouTube"/>
+  <!-- Discord (alternativo) -->
+  <a href="#" onclick="alert('Adicione-me no Discord: SeuNome#1234')" style="cursor:pointer">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="45" alt="Discord"/>
   </a>
-  
-  <!-- Discord (alternativo seguro) -->
-  <span style="cursor:pointer" onclick="prompt('Me adicione no Discord:', 'SeuUsername#1234')">
-    <img src="https://i.ibb.co/6YKbHnB/discord.png" width="40" alt="Discord"/>
-  </span>
 </div>
