@@ -18,14 +18,14 @@
 
 ###
 
-<div align="left" style="display: flex; gap: 10px;">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/karolinerebeca/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <!-- LinkedIn (funciona) -->
+  <a href="https://linkedin.com/in/karolinerebeca" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" alt="LinkedIn"/>
   </a>
   
-  <!-- Discord com SEU ID -->
-  <a href="https://discord.com/users/1335963063819567204" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="48" height="48" alt="Discord" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <!-- Discord (alternativo) -->
+  <a href="#" onclick="alert('Adicione-me no Discord: SeuNome#1234')" style="cursor:pointer">
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="45" alt="Discord"/>
   </a>
 </div>
