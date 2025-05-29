@@ -1,5 +1,43 @@
-<p align="left">✨ Hi, I'm Karoline!<br>💻 Backend Developer | C# · .NET · SQL Server · APIs<br>📍 Based in Blumenau, Brazil<br><br>🔹 Passionate about building scalable backend systems and efficient APIs.<br>🔹 Currently working with C#, .NET, SQL Server, and API development.<br>🔹 Always learning and exploring new tech to level up my skills.</p>
+# Karoline Rebeca 👋
 
+📍 Blumenau, SC | 📧 karolinerebeca96@gmail.com
+
+## Desenvolvedora Backend .NET | C# | APIs REST
+
+💻 **Tecnologias Principais:**  
+- C# / .NET Core  
+- SQL Server  
+- APIs RESTful  
+- Entity Framework  
+
+## Sobre Mim
+
+Olá! Sou Karoline, uma desenvolvedora backend apaixonada por criar sistemas escaláveis e APIs eficientes. 
+
+🔹 Atualmente trabalhando com:  
+- Desenvolvimento de APIs em C#  
+- Arquitetura de sistemas backend  
+- Integrações entre sistemas  
+
+🔹 Sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.  
+
+## Projetos Destacados
+
+### [SalesWebMVC](link_do_repositorio)
+📌 Sistema de gerenciamento de vendas desenvolvido com ASP.NET Core MVC  
+🛠️ Tecnologias: C#, Entity Framework, SQL Server, HTML/CSS  
+
+
+
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=karolinerebeca&show_icons=true&theme=dracula)
+
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolinerebeca/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerebeca96@gmail.com)
 ###
 
 <div align="left">
