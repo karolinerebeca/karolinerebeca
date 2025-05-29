@@ -54,16 +54,4 @@ Olá! Sou Karoline, uma desenvolvedora backend apaixonada por criar sistemas esc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
-###
 
-<div style="display: flex; gap: 15px; align-items: center;">
-  <!-- LinkedIn (funciona) -->
-  <a href="https://linkedin.com/in/karolinerebeca" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" alt="LinkedIn"/>
-  </a>
-  
-  <!-- Discord (alternativo) -->
-  <a href="#" onclick="alert('Adicione-me no Discord: SeuNome#1234')" style="cursor:pointer">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="45" alt="Discord"/>
-  </a>
-</div>
