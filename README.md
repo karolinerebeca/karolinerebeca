@@ -50,3 +50,4 @@ Atualmente focada em criar soluções com <strong>C#</strong>, <strong>.NET</str
 
 <!-- Animação estilo snake game -->
 ![Snake animation](https://github.com/karolinerebeca/karolinerebeca/blob/output/github-contribution-grid-snake.svg)
+
