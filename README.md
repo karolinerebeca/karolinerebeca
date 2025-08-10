@@ -3,8 +3,6 @@
 
 <p align="center">
 Apaixonada por tecnologia e em constante evolução.<br>
-Em transição de carreira da área da saúde para o desenvolvimento de software.<br>
-Atualmente focada em criar soluções com <strong>C#</strong>, <strong>.NET</strong> e bancos de dados relacionais.
 </p>
 
 ---
