@@ -1,57 +1,52 @@
-# Karoline Rebeca 👋
+<h1 align="center">💻 Karoline Rebeca</h1>
+<h3 align="center">Desenvolvedora Backend | C# .NET | Estudante de ADS</h3>
 
-📍 Blumenau, SC | 📧 karolinerebeca96@gmail.com
+<p align="center">
+Apaixonada por tecnologia e em constante evolução.<br>
+Em transição de carreira da área da saúde para o desenvolvimento de software.<br>
+Atualmente focada em criar soluções com <strong>C#</strong>, <strong>.NET</strong> e bancos de dados relacionais.
+</p>
 
-## Desenvolvedora Backend .NET | C# | APIs REST
+---
 
-💻 **Tecnologias Principais:**  
-- C# / .NET Core  
-- SQL Server  
-- APIs RESTful  
-- Entity Framework  
+## 📊 GitHub Stats
 
-## Sobre Mim
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karolinerebeca&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinerebeca&layout=compact&theme=tokyonight)
 
-Olá! Sou Karoline, uma desenvolvedora backend apaixonada por criar sistemas escaláveis e APIs eficientes. 
-
-🔹 Atualmente trabalhando com:  
-- Desenvolvimento de APIs em C#  
-- Arquitetura de sistemas backend  
-- Integrações entre sistemas  
-
-🔹 Sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.  
-
-## Projetos Destacados
-
-### [SalesWebMVC](link_do_repositorio)
-📌 Sistema de gerenciamento de vendas desenvolvido com ASP.NET Core MVC  
-🛠️ Tecnologias: C#, Entity Framework, SQL Server, HTML/CSS  
-
-
-
-## Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=karolinerebeca&show_icons=true&theme=dracula)
-
-## Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolinerebeca/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karolinerebeca96@gmail.com)
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
+---
 
+## 🛠️ My Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📫 Contatos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karolinerebeca">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:karolinerebeca@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Animação estilo snake game -->
+![Snake animation](https://github.com/karolinerebeca/karolinerebeca/blob/output/github-contribution-grid-snake.svg)
