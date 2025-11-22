@@ -1,51 +1,51 @@
-<h1 align="center">💻 Karoline Rebeca</h1>
-<h3 align="center">Desenvolvedora Backend | C# .NET | Estudante de ADS</h3>
+# 👋 Olá! Eu sou a Karoline Rebeca
 
-<p align="center">
-Apaixonada por tecnologia e em constante evolução.<br>
-</p>
+🎯 Desenvolvedora Backend em formação  
+💻 Foco em C#, .NET, APIs REST e SQL  
+📍 Itatiba/SP  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karolinerebeca&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinerebeca&layout=compact&theme=tokyonight)
-
-</div>
+Sou apaixonada por desenvolvimento backend e por escrever código limpo e de fácil manutenção.  
+Atualmente estudo profundamente a stack .NET (C#, APIs, EF Core e arquitetura) e busco minha primeira oportunidade como Desenvolvedora Backend.
 
 ---
 
-## 🛠️ My Stack
+## 🚀 Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Backend:**  
+- C#, .NET, ASP.NET MVC, ASP.NET Web API  
+- Entity Framework, LINQ  
+- SQL Server, MySQL
 
----
-
-## 📫 Contatos
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/karolinerebeca">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:karolinerebeca96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Outros:**  
+- Git & GitHub  
+- JavaScript  
+- Conceitos: SOLID, Clean Code, DRY, KISS, POO  
+- Logs & troubleshooting
 
 ---
 
-<!-- Animação estilo snake game -->
-![Snake animation](https://github.com/karolinerebeca/karolinerebeca/blob/output/github-contribution-grid-snake.svg)
+## 📌 Projetos em Destaque
+
+### 🚀 SalesWebMVC (ASP.NET MVC + EF + SQL)
+Sistema de vendas com CRUD completo, filtros, validações e camadas bem definidas.  
+👉 GitHub: *link do repo*
+
+### 🔗 API .NET – Estudos (REST API)
+API REST criada para prática de DTOs, serviços e boas práticas.  
+👉 GitHub: *link do repo*
+
+---
+
+## 📈 O que estou estudando agora
+- Web API com .NET 8/9  
+- Entity Framework Core avançado  
+- Arquitetura limpa e padrões  
+- Testes automatizados  
+
+---
+
+## 💬 Vamos conversar?
+📩 karolinerebeca96@gmail.com  
+🔗 LinkedIn: linkedin.com/in/karolinerebeca
+
 
