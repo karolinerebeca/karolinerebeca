@@ -1,5 +1,6 @@
-<img src="(https://github.com/karolinerebeca/images/blob/8b2e3c5d84bef5f8e2c87ae57e5b926bfd1d42e8/A957BE91-9AB1-4061-8A1C-B08A1E75D542.jpeg)" width="180" style="border-radius: 15px;" />
-
+[<img src="(https://github.com/karolinerebeca/images/blob/8b2e3c5d84bef5f8e2c87ae57e5b926bfd1d42e8/A957BE91-9AB1-4061-8A1C-B08A1E75D542.jpeg)" width="180" style="border-radius: 15px;" />
+](https://raw.githubusercontent.com/karolinerebeca/images/refs/heads/main/A957BE91-9AB1-4061-8A1C-B08A1E75D542.jpeg
+)
 # 👋 Olá, eu sou a Karoline Rebeca!
 
 🎯 Desenvolvedora Backend em formação  
