@@ -44,7 +44,7 @@ CRUD completo, filtros, validações e estrutura MVC com Entity Framework.
 
 ### 🔗 **API .NET – Estudos**
 API REST para prática com DTOs, camadas, serviços e boas práticas.  
-🔗 *GitHub*: *adicione o link do repo assim que criar*
+
 
 ---
 
