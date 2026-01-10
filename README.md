@@ -68,9 +68,13 @@ Gosto de transformar problemas complexos em soluções simples e bem estruturada
 
 ---
 
-### 🟦 **API .NET — Estudos**
-API REST com boas práticas, camadas, DTOs e serviços.  
-📌 Repositório será aberto em breve!
+### 🟦 **ToDoAPI**
+API REST desenvolvida em .NET 8 com C#, utilizando SQL Server e Entity Framework Core, seguindo boas práticas de arquitetura e organização de código.
+
+🧠 Objetivo do Projeto
+
+Projeto desenvolvido com foco em aprendizado, boas práticas, Clean Code e base sólida para APIs REST em .NET, visando evolução profissional e portfólio.
+📌https://github.com/karolinerebeca/TodoApi
 
 ---
 
