@@ -65,10 +65,6 @@ Gosto de transformar problemas complexos em soluções simples e bem estruturada
 
 ## 🎆 Projetos em Destaque
 
-### 🚀 **SalesWebMVC**
-Sistema de vendas completo usando ASP.NET MVC + Entity Framework.  
-🟣 CRUD • Filtros • Validações • Navegação • Modelos bem estruturados  
-🔗 https://github.com/karolinerebeca/SalesWebMVC
 
 ---
 
